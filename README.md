@@ -1,4 +1,4 @@
-# Sales Forecasting with Predictive Analytics (Advanced + Creative)
+# Sales Forecasting with Predictive Analytics 
 
 **Thiranex Internship — Data Analyst Track**
 
