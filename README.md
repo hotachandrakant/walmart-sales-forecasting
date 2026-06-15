@@ -1,4 +1,4 @@
-# 📈 Project 3 — Sales Forecasting with Predictive Analytics (Advanced + Creative)
+# Sales Forecasting with Predictive Analytics (Advanced + Creative)
 
 **Thiranex Internship — Data Analyst Track**
 
