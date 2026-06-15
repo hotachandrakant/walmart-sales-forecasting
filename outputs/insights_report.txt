@@ -1,0 +1,11 @@
+WALMART SALES FORECAST — KEY INSIGHTS
+=============================================
+
+1. Sales show a clear yearly seasonal pattern plus a gentle trend; residuals are small and centred, so the structure is well captured.
+
+2. Holiday weeks average $50.53M vs $46.86M on normal weeks — a +7.8% holiday lift.
+
+3. 'Thanksgiving' is the strongest sales holiday.
+
+4. Top store by total sales is Store 20; fastest-growing is Store 38 (+17.9%).
+
