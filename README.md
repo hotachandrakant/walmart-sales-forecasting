@@ -92,7 +92,7 @@ Python · pandas · NumPy · scikit-learn (LinearRegression, RandomForest,
 GradientBoosting, metrics) · custom Holt-Winters · SciPy · joblib ·
 Matplotlib · Seaborn · Plotly · Streamlit
 
-## 📚 What I learned
+## 📚What I learned
 Time-series feature engineering, comparing forecasting models with proper
 time-based validation, multi-step recursive forecasting with confidence
 intervals, seasonal decomposition, and turning forecasts into a business report.
